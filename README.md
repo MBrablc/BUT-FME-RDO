@@ -11,4 +11,4 @@ v průběhu semestru se v tomto adresáři budou objevovat zadání a v někter�
 * Cvičení 2 - TBD
 
 
-[I'm a relative reference to a repository file](../cv1 - ODE intro)
+[I'm a relative reference to a repository file](cv1 - ODE intro)
