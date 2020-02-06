@@ -7,8 +7,8 @@ Jedná se o vznikající projekt, neváhejte navrhovat úpravy a rozšíření, 
 ## Obsah adresáře
 v průběhu semestru se v tomto adresáři budou objevovat zadání a v některých případech i řešení. Ve složce každého cvičení najdete stručnou osnovu, cvičení nemusí probíhat stejně (i když často bude), ale obsah by měl být stejný.
 
-* Cvičení 1 - opakování matlabu, minimální úvod k ODE
+* [Cvičení 1 - opakování matlabu, minimální úvod k ODE](https://github.com/MBrablc/BUT-FME-RDO/tree/master/cv1%20-%20ODE%20intro)
 * Cvičení 2 - TBD
 
 
-[I'm a relative reference to a repository file](cv1 - ODE intro)
+
