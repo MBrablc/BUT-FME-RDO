@@ -12,12 +12,14 @@
 * Riemanův integrál, Newton-Leibnizova formule
 * Analyticky vs numericky, jak je to u derivace?
 * Euler, Trapez
-* Když mám hodnotu integrálu v kroku k, jak zapíšu hodnotu v kroku k+1?
-
-![alt text](https://github.com/MBrablc/BUT-FME-RDO/blob/master/cv1%20-%20ODE%20intro/T01%20-%20Matlab%20refresh/RDO_T01_helix.png "Helix example")
-![alt text](https://github.com/MBrablc/BUT-FME-RDO/blob/master/cv1%20-%20ODE%20intro/T01%20-%20Matlab%20refresh/RDO_T01_helix.png "Helix example")
-
-
+* Když mám hodnotu integrálu v kroku k, jak zapíšu hodnotu v kroku k+1 podle Eulera?
 
 ## Numerické řešení ODE
+* Co je to diferenciální rovnice?
+* Co je jejím řešením?
+* Jaké druhy a vlastnosti známe? Příklady DR? Co DR popisují?
+* IVP vs BVP
+
+* Intuitivní příklad: 
+$$\dot{x} + 0.5x = 0$$
 
