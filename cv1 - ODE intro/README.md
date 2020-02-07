@@ -21,5 +21,5 @@
 * IVP vs BVP
 
 * Intuitivní příklad: 
-$$\dot{x} + 0.5x = 0$$
+\\[\dot{x} + 0.5x = 0]\\
 
