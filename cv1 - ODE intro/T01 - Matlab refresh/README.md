@@ -8,4 +8,4 @@
 * animujte vykreslování pomocí **for** cyklu
 * doplňte podmínky pro barvy **if**
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/MBrablc/BUT-FME-RDO/blob/master/cv1%20-%20ODE%20intro/T01%20-%20Matlab%20refresh/RDO_T01_helix.png "Helix example")
