@@ -6,7 +6,7 @@
 
 * začnete kružnicí ve 2D pomocí příkazu **plot**
 * pomocí **plot3** vykreslete místo kružnice jednoduchou šroubovici
-* animujte vykreslování pomocí **for** cyklu
+* animujte vykreslování pomocí **for** cyklu, doplňte zmenšující se poloměr
 * doplňte podmínky pro barvy **if**
 
 ![alt text](https://github.com/MBrablc/BUT-FME-RDO/blob/master/cv1%20-%20ODE%20intro/T01%20-%20Matlab%20refresh/RDO_T01_helix.png "Helix example")
