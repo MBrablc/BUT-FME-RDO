@@ -21,5 +21,5 @@
 * IVP vs BVP
 
 * Intuitivní příklad: 
-<img src="https://render.githubusercontent.com/render/math?math=\dot{x}+0.5x=0">
+![\dot{x} + 0.5x = 0](https://render.githubusercontent.com/render/math?math=%5Cdot%7Bx%7D%20%2B%200.5x%20%3D%200)
 
