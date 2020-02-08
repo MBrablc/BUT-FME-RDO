@@ -3,7 +3,7 @@
 ## Matlab opakování
 * předpokládáme znalosti z předmětů RMW a 1NI, pokud se ztratili, doporučujeme dohnat samostudiem, např na [Matlab - Cody](https://www.mathworks.com/matlabcentral/cody/).
 * od roku 2020 si může každý student a zaměstnanec VUT stáhnout plnou lisenci matlabu a simulinku na vlastní PC viz [VUT TAH](https://www.vutbr.cz/intra/software/matlab-campus-wide)
-* měly by vám být jasné pojmy jako proměnná, vektor, matice, indexování, vektorizacem, cykly, podmínky, funkce, plot
+* měly by vám být jasné pojmy jako proměnná, vektor, matice, indexování, vektorizace, cykly, podmínky, funkce, plot
 * Pro zopakování vyzkoušejte [TASK01](https://github.com/MBrablc/BUT-FME-RDO/tree/master/cv1%20-%20ODE%20intro/T01%20-%20Matlab%20refresh)
 
 ## Numerická integrace
