@@ -7,7 +7,7 @@
 * porovnejte přesnost s mětodou Euler - ODE1
 
 ## ODE4 - Runge-Kutta
-* [vzorec](https://en.wikipedia.org/wiki/Runge%E2%80%93Kutta_methods),graficky
+* [vzorec](https://en.wikipedia.org/wiki/Runge%E2%80%93Kutta_methods), graficky
 * řeště TASK03 metodou řešičem duhého řádu - lichoběžníkovou metodou
 * porovnejte přesnost s předchozími metodami
 
