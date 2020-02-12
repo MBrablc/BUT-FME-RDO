@@ -1,24 +1,24 @@
-#První cviko
-1. bezpeènost
+# PrvnÃ­ cviko
+1. bezpeÄnost
 1. enkoder, H-mustek, lem, dc motor, karta MF624, real-time
-2. subsystem s fyzikalnima jednotkama, správné smìry
+2. subsystem s fyzikalnima jednotkama, sprÃ¡vnÃ© smÄ›ry
 3. p regulator polohy
 4. pi/pi(d) na polohu
 
-#Druhé cviko
+# DruhÃ© cviko
 5. p rychlost
-1. mìøení rychlosti - filtr + numerická derivace
+1. mÄ›Å™enÃ­ rychlosti - filtr + numerickÃ¡ derivace
 6. pi/pid rychlost
 7. ir kompenzace
-8. spøaené motory - promìnná zátì na rychlost / kaskáda
+8. spÅ™aÅ¾enÃ© motory - promÄ›nnÃ¡ zÃ¡tÄ›Å¾ na rychlost / kaskÃ¡da
 
-#Tøetí cviko
+# TÅ™etÃ­ cviko
 1. test - cca 2h
 1. (FF kompenzace kyvadla)
 1. ...
 
 
-#Ètvrté cviko - EduKit
+# ÄŒtvrtÃ© cviko - EduKit
 1. LED, BUT
 1. POT - scale
 1. PWM
