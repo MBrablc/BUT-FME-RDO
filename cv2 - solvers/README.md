@@ -8,7 +8,7 @@
 
 ## ODE4 - Runge-Kutta
 * [vzorec](https://en.wikipedia.org/wiki/Runge%E2%80%93Kutta_methods), graficky
-* řeště TASK03 metodou řešičem duhého řádu - lichoběžníkovou metodou
+* řeště TASK03 řešičem čtvrtého řádu - metodou Runge-Kutta
 * porovnejte přesnost s předchozími metodami
 
 
@@ -16,9 +16,9 @@
 * ![m\ddot{x} + kx = 0](https://render.githubusercontent.com/render/math?math=m%5Cddot%7Bx%7D%20%2B%20kx%20%3D%200)
 * co je to stav?
 * jak pracovat s ODE vyšších řádů -> přepis na soustavu ODE1 => stavový prostor, stavový zápis lineárních systémů
-* přepís: substituce, intuice
+* přepis: substituce, intuice
 
 ## Numerické řešení diferenciálních rovnic vyšších řádů
-* řešte diferenciální rovnici z předchozí sekce Eulerovou metodou (ODE1), jaký musí být krok aby byla stabilní?
+* řešte diferenciální rovnici z předchozí sekce Eulerovou metodou (ODE1), jaký musí být krok, aby byla stabilní?
 * vyzkoušejte metodu RK (ODE4)
 * vyzkoušejte funkci **ode45**
