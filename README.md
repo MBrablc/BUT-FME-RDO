@@ -8,7 +8,7 @@ Jedná se o vznikající projekt, neváhejte navrhovat úpravy a rozšíření, 
 v průběhu semestru se v tomto adresáři budou objevovat zadání a v některých případech i řešení. Ve složce každého cvičení najdete stručnou osnovu, cvičení nemusí probíhat stejně (i když často bude), ale obsah by měl být stejný.
 
 * [Cvičení 1 - opakování matlabu, minimální úvod k ODE](https://github.com/MBrablc/BUT-FME-RDO/tree/master/cv1%20-%20ODE%20intro)
-* Cvičení 2 - TBD
+* [Cvičení 2 - řešiče ODE](https://github.com/MBrablc/BUT-FME-RDO/tree/master/cv2%20-%20solvers)
 
 
 

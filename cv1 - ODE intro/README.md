@@ -21,5 +21,5 @@
 * Intuitivní příklad: 
 ![\dot{x} + 0.5x = 0](https://render.githubusercontent.com/render/math?math=%5Cdot%7Bx%7D%20%2B%200.5x%20%3D%200)
 * Co o takové rovnici umíme říct, jaké je jeho řešení?
-* Navazuje TASK03
+* Navazuje [TASK03](https://github.com/MBrablc/BUT-FME-RDO/tree/master/cv1%20-%20ODE%20intro/T03%20-%20Numerical%20Solution%20of%20ODE1)
 
