@@ -18,3 +18,4 @@
 
 ## Van der Pol oscilátor
 * [rovnice](https://en.wikipedia.org/wiki/Van_der_Pol_oscillator)
+* stavový prostor
