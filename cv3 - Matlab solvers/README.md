@@ -17,4 +17,4 @@
 * řešení v matlabu pomocí event funkce
 
 ## Van der Pol oscilátor
-* (rovnice)[https://en.wikipedia.org/wiki/Van_der_Pol_oscillator]
+* [rovnice](https://en.wikipedia.org/wiki/Van_der_Pol_oscillator)
