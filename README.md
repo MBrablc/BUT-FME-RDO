@@ -9,6 +9,7 @@ v průběhu semestru se v tomto adresáři budou objevovat zadání a v někter�
 
 * [Cvičení 1 - opakování matlabu, minimální úvod k ODE](https://github.com/MBrablc/BUT-FME-RDO/tree/master/cv1%20-%20ODE%20intro)
 * [Cvičení 2 - řešiče ODE](https://github.com/MBrablc/BUT-FME-RDO/tree/master/cv2%20-%20solvers)
+* [Cvičení 3 - Řešiče v Matlabu](https://github.com/MBrablc/BUT-FME-RDO/tree/master/cv3%20-%20Matlab%20solvers)
 
 
 
