@@ -12,4 +12,7 @@ v průběhu semestru se v tomto adresáři budou objevovat zadání a v někter�
 * [Cvičení 3 - Řešiče v Matlabu](https://github.com/MBrablc/BUT-FME-RDO/tree/master/cv3%20-%20Matlab%20solvers)
 
 
+* [Příklady pro samostudium](https://github.com/MBrablc/BUT-FME-RDO/tree/master/P%C5%99%C3%ADklady%20pro%20samostudium)
+
+
 
