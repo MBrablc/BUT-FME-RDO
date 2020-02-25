@@ -15,7 +15,3 @@
 * odraz od země a od stěny - převrácení směru rychlosti (ztráty při odrazu)
 * problém - zero-crossing detection
 * řešení v matlabu pomocí event funkce
-
-## Van der Pol oscilátor
-* [rovnice](https://en.wikipedia.org/wiki/Van_der_Pol_oscillator)
-* stavový prostor
