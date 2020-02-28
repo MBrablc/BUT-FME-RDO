@@ -5,7 +5,7 @@
 * [rovnice](https://en.wikipedia.org/wiki/Van_der_Pol_oscillator)
 * stavový prostor
 * doplňte rovnici oscilátoru o harmonickou budící sílu
-* vyzkoušejte také další řešiče matlabu (ODE23,23s,15s,... více zde: [Matlab - Choose an ODE Solver](https://www.mathworks.com/help/matlab/math/choose-an-ode-solver.html)
+* vyzkoušejte také další řešiče matlabu (ODE23,23s,15s,... více zde: [Matlab - Choose an ODE Solver](https://www.mathworks.com/help/matlab/math/choose-an-ode-solver.html))
 
 
 ## Samostatná práce - Seriový RLC Obvod
