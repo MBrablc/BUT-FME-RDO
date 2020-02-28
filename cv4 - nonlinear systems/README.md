@@ -5,12 +5,14 @@
 * [rovnice](https://en.wikipedia.org/wiki/Van_der_Pol_oscillator)
 * stavový prostor
 * doplňte rovnici oscilátoru o harmonickou budící sílu
+* vyzkoušejte také další řešiče matlabu (ODE23,23s,15s,... více zde: [Matlab - Choose an ODE Solver](https://www.mathworks.com/help/matlab/math/choose-an-ode-solver.html)
 
 
 ## Samostatná práce - Seriový RLC Obvod
 * sestavte matematický model seriového RLC obvodu
 * přepište model do podoby vhodné pro numerickou simulaci (IVP)
 * simulujte jeho chování pomocí vámi zvoleného řešiče (např. vlastní Euler, ODE45)
+
 
 
 
