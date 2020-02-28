@@ -7,8 +7,10 @@
 * doplňte rovnici oscilátoru o harmonickou budící sílu
 
 
-## Samostatná práce
-* nádoby??
+## Samostatná práce - Seriový RLC Obvod
+* sestavte matematický model seriového RLC obvodu
+* přepište model do podoby vhodné pro numerickou simulaci (IVP)
+* simulujte jeho chování pomocí vámi zvoleného řešiče (např. vlastní Euler, ODE45)
 
 
 
