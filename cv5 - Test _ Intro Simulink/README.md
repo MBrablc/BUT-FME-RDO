@@ -5,7 +5,7 @@
 ## Test 
 * test je nutné psát na školním PC
 * zakazaný přístup na sdílený disk v učebnách
-* smíte používat pouze Matlab Help, papír a tušku
+* smíte používat pouze Matlab Help, papír a tužku
 * 40-50 min
 
 
