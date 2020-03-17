@@ -12,6 +12,7 @@ v průběhu semestru se v tomto adresáři budou objevovat zadání a v někter�
 * [Cvičení 3 - Řešiče v Matlabu](https://github.com/MBrablc/BUT-FME-RDO/tree/master/cv3%20-%20Matlab%20solvers)
 * [Cvičení 4 - Nelineární systémy](https://github.com/MBrablc/BUT-FME-RDO/tree/master/cv4%20-%20nonlinear%20systems)
 * [Cvičení 5 - Test, Intro Simulink](https://github.com/MBrablc/BUT-FME-RDO/tree/master/cv5%20-%20Test%20_%20Intro%20Simulink)
+* [Cvičení 6 - Simulink ODE](https://github.com/MBrablc/BUT-FME-RDO/tree/master/cv6%20-%20Simulink%20ODE)
 
 
 * [Příklady pro samostudium](https://github.com/MBrablc/BUT-FME-RDO/tree/master/P%C5%99%C3%ADklady%20pro%20samostudium)
