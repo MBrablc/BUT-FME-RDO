@@ -1,7 +1,9 @@
 ﻿# BUT-FME-RDO
 
-## Obsah - TBD
-
+## Osnova cvičení
+1) tvorba modelu obvodu RCRC (tj. dva RC články za sebou)
+1) důležité bloky simulinku, interakce s matlabem
+1) stiff systémy, nastavení řešiče
 
 ## Zadání příkladu (deadline pátek 27.3.2020 10:00 - odevzdání na e-learningu)
 1) sestavte model jednoduchého RC článku (vstup je napětí, výstup napětí na kondenzátoru, předpokládejte nulový odběr proudu)
