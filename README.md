@@ -7,7 +7,7 @@ Jedná se o vznikající projekt, neváhejte navrhovat úpravy a rozšíření, 
 * Přemýšlejte nad dadáními semestrálních projektů, inspiraci můžete hledat na naší dokuwiki (zatím pracovní verze:
   * zadání [Matlab - 30b](http://mechx.cz/dokuwiki/doku.php?id=courses:zadani_projektu_-_matlab)
   * zadání [Simulink - 20b](http://mechx.cz/dokuwiki/doku.php?id=courses:zadani_projektu_-_simulink)
-* Každý student si vybere jedno téma z matlabu a jedno ze simulinku (tj, celkem dva menší projekty). Zadá můžou, ale nemusí být propojené, neměli byste ale v pobo zpracovávat úpně stejnou věc. Ze seznamů si buď můžete vybrat přímo, nebo se inspirovat a vymyslet si vlastní zadání, které:
+* Každý student si vybere jedno téma z matlabu a jedno ze simulinku (tj, celkem dva menší projekty). Zadání můžou, ale nemusí být propojené, neměli byste ale v obou zpracovávat úpně stejnou věc. Ze seznamů si buď můžete vybrat přímo, nebo se inspirovat a vymyslet si vlastní zadání, které:
   * vás zajímá,
   * obsahuje nějaký zajímavý, ideálně dynamický systém,
   * je přiměřeně složité.
