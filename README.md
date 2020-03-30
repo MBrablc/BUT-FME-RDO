@@ -3,6 +3,17 @@ V tomto adresáři najdete oficiální podpory pro výuku předmětu [RDO - Mode
 
 Jedná se o vznikající projekt, neváhejte navrhovat úpravy a rozšíření, upozorňovat na chyby a překlepy atd. Prospějete tím příštím generacím.
 
+## Individuální semestrální projekty
+* Přemýšlejte nad dadáními semestrálních projektů, inspiraci můžete hledat na naší dokuwiki (zatím pracovní verze:
+  * zadání [Matlab - 30b](http://mechx.cz/dokuwiki/doku.php?id=courses:zadani_projektu_-_matlab)
+  * zadání [Simulink - 20b](http://mechx.cz/dokuwiki/doku.php?id=courses:zadani_projektu_-_simulink)
+* Každý student si vybere jedno téma z matlabu a jedno ze simulinku (tj, celkem dva menší projekty). Zadá můžou, ale nemusí být propojené, neměli byste ale v pobo zpracovávat úpně stejnou věc. Ze seznamů si buď můžete vybrat přímo, nebo se inspirovat a vymyslet si vlastní zadání, které:
+  * vás zajímá,
+  * obsahuje nějaký zajímavý, ideálně dynamický systém,
+  * je přiměřeně složité.
+* Každý projekt v matlabu by měl obsahovat jedoduché GUI (na to ještě budeme mít cvičení), v simuliku masku a spouštěcí skript. Hodnotí se nejen splnění zadání, ale také forma (přehlednost, čitelnost) a úroveň zpracování.
+  
+
 
 ## Obsah adresáře
 v průběhu semestru se v tomto adresáři budou objevovat zadání a v některých případech i řešení. Ve složce každého cvičení najdete stručnou osnovu, cvičení nemusí probíhat stejně (i když často bude), ale obsah by měl být stejný.
