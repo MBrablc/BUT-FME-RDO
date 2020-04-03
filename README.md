@@ -26,6 +26,7 @@ v průběhu semestru se v tomto adresáři budou objevovat zadání a v někter�
 * [Cvičení 6 - Simulink ODE](https://github.com/MBrablc/BUT-FME-RDO/tree/master/cv6%20-%20Simulink%20ODE)
 * [Cvičení 7 - RC](https://github.com/MBrablc/BUT-FME-RDO/tree/master/cv7%20-%20RC)
 * [Cvičení 8 - Simulink dokončení](https://github.com/MBrablc/BUT-FME-RDO/tree/master/cv8%20-%20Simulink%20finish)
+* [Cvičení 9 - Lab Intro](https://github.com/MBrablc/BUT-FME-RDO/tree/master/cv9%20-%20COVID%20and%20Lab%20Intro)
 
 
 * [Příklady pro samostudium](https://github.com/MBrablc/BUT-FME-RDO/tree/master/P%C5%99%C3%ADklady%20pro%20samostudium)
