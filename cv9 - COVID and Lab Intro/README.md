@@ -20,7 +20,7 @@
   * úhel natoření v rad
 * parametry motoru a senzorů jsou uloženy v masce (edit mast => initialization)
 * model nemusíte odevzdávat, ale v příštím cvičení budu předpokládat, že ho všichni mají.
-* projděte si tuto [prezentaci](http://mechx.cz/dokuwiki/lib/exe/fetch.php?media=model:dc_pohony.pdf)
+* projděte si tuto [prezentaci](http://mechx.cz/dokuwiki/doku.php?id=model:dc_motor)
 
 
 
